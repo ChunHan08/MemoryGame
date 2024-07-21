@@ -12,8 +12,10 @@ body{
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background: #a3bd8d;
+  background-color: #BC3300;
+
   }
+
 h3{
   padding: 20px;
 }
@@ -22,9 +24,4 @@ h3{
   flex-wrap: wrap;
   width: 440px;
   height: 330px;
-}
-img{
-  padding: 5px;
-  border-radius: 15px;
-  
 }
